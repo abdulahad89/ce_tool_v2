@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+openai
+google-generativeai
+huggingface_hub
+python-dotenv
